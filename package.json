@@ -1,5 +1,5 @@
 {
-  "name": "@tomkingkong/complete-me",
+  "name": "@tomkingkong/location-search",
   "version": "1.0.0",
   "description": "Prefix Trie",
   "main": "index.js",
